@@ -1,5 +1,5 @@
 ---
-title: "Tumble Through The Tulips Adult Gymnastics Meet"
+title: "Tumble Through The Tulips - An NAIGC Adult Gymnastics Meet"
 author: "Dana Gibbon"
 date: "`r Sys.Date()`"
 output: 
